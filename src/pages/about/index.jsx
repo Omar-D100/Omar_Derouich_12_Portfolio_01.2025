@@ -1,5 +1,5 @@
 import './style.css';
-import imggithubastoboy from '../../assets/Octocat-Astroboy.webp';
+import imggithubastoboy from '/Octocat-Astroboy.webp';
 
 export default function AboutMe() {
   return (
