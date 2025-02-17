@@ -1,9 +1,9 @@
 import './style.css'; // Import du fichier CSS
-import SophieBluelImg from '../../../sophie-bluel.webp'; // Import de l'image
-import BookiImg from '../../../Booki.webp';
-import OhMyFoodImg from '../../../oh-my-food.webp';
-import ArgentBankimg from '../../../Argent-Bank.webp';
-import NinaCarducciimg from '../../../Nina-Carducci.webp';
+import SophieBluelImg from '../../../public/sophie-bluel.webp'; // Import de l'image
+import BookiImg from '../../../public/Booki.webp';
+import OhMyFoodImg from '../../../public/oh-my-food.webp';
+import ArgentBankimg from '../../../public/Argent-Bank.webp';
+import NinaCarducciimg from '../../../public/Nina-Carducci.webp';
 import Kasaimg from '../../../public/Kasa.webp';
 
 const Projects = () => {
